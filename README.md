@@ -4,5 +4,5 @@ This repo contains code and diagram to control the direction of turn of the two 
 
 It was developed for an artwork by Herman De Klerk - https://hermandeklerk.com/
 
-Refenence Instructable - https://www.instructables.com/How-to-hack-an-Electric-Hoist-AC-motor/
+Reference Instructable - https://www.instructables.com/How-to-hack-an-Electric-Hoist-AC-motor/
 */
